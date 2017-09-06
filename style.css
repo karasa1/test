@@ -1,0 +1,43 @@
+﻿.box {
+	width:35%;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 11px;
+	background-color:lightblue;
+	margin-top:5px;
+	border-style:solid;
+	
+}
+
+.mainbox {
+	width:35%;
+	height:11%;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 11px;
+	background-color:lightblue;
+	margin-top:20px;
+	border-style:solid;
+}
+.button {
+    background-color:lightblue;
+    width:35%;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+	border-style:solid;
+	border-radius: 11px;
+	
+	
+}
+
+body {
+	background-color:lightgrey;
+}
+
+
+
+
