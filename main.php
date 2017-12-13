@@ -15,13 +15,6 @@
 
 </center>
 
-<?php
-	include ('connect.php');
-	$select = mysqli_query($link, "SELECT * FROM test"); 
-	while ($row = mysqli_fetch_assoc($select)) { 
-		echo "<div class='mainbox'><h3>". $row["ide"]. "</div><br>"; //skriver ut allt innom en div
-	}
-	
-?>
+sdfghjkhgfd
 </body>
 </html>
